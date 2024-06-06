@@ -17,7 +17,8 @@ while having the advantage of the optimally placed symbols from the
 Programmer Dvorak Keyboard.
 
 ## Installation
-Download the attached zip file. Unzip and run setup.exe.
+1. Download the attached zip file.
+1. Unzip and run setup.exe (requires admin access).
 
 ## Requirements
 Windows
